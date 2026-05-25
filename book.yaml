@@ -14,3 +14,7 @@ geometry: margin=2.5cm
 
 # Numeración de capítulos y secciones
 numbersections: true
+
+# Bibliografía
+bibliography: references.bib
+csl: chicago-note-bibliography.csl
