@@ -1,0 +1,16 @@
+title: "Tesis para optar al grado"
+author: "Claudio Ignacio Arancibia Varas"
+lang: es
+
+# Tipografía
+mainfont: "Times New Roman"
+sansfont: "Arial"
+monofont: "Courier New"
+fontsize: 12pt
+
+# Página 
+papersize: a4
+geometry: margin=2.5cm
+
+# Numeración de capítulos y secciones
+numbersections: true
